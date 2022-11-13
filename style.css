@@ -1,0 +1,18 @@
+body {
+    margin:0;
+    padding:0;
+}
+
+#task-list, #completed{
+    width:50%;
+    float: left;
+    top:0;
+}
+.dragItem{
+    background-color: cadetblue;
+    padding:1rem;
+    margin:1rem;    
+    cursor: pointer;
+    text-align: center;
+    width:200px;
+}
